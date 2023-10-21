@@ -1,0 +1,23 @@
+.movie_cast_list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.movies_cast_item {
+    width: 200px;
+}
+
+.movies_cast_name {
+    color: rgb(57, 57, 57);
+}
+
+.wrap {
+    width: 100%;
+}
+
+.cart {
+    margin-bottom: 50px;
+}
